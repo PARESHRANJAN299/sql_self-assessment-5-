@@ -1,0 +1,27 @@
+⭐ ✅ Part-1- 
+10 EASY QUESTIONS — ONLY “NOT” in WHERE condition
+Q1. Show employees NOT from the IT department.
+Q2. Show employees NOT from the city 'Mumbai'.
+Q3. Show employees whose salary is NOT 50000.
+Q4. Show employees whose age is NOT 25.
+Q5. Show employees whose department is NOT 'Finance'.
+Q6. Show employees NOT living in Delhi or Chennai.
+Q7. Show employees whose age is NOT between 30 and 40.
+Q8. Show employees whose salary is NOT greater than 60000.
+Q9. Show employees whose city is NOT NULL.
+Q10. Show employees NOT named ‘Rahul’.
+
+
+
+⭐✅ Part-2: 10 Questions on SELECT, WHERE, ORDER BY
+Q11. Select all employee names and salaries.
+Q12. Select employees who are older than 40.
+Q13. Select employees who live in Delhi.
+Q14. Select employees whose salary is above 60,000.
+Q15. Show employees ordered by salary (low → high).
+Q16. Show employees Ordered by age (high → low).
+Q17. Select employees whose name contains the letter 'e'.
+this is diffrent ques but we will slove this
+Q18. Select employees who work in the IT department.
+Q19. Select employees whose city is either Bangalore or Chennai.
+Q20. Show top 3 highest-paid employees.
