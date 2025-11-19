@@ -1,0 +1,10 @@
+✅ 1) Show all columns from the table
+✅ 2) Show only name and salary
+✅ 3) Find employees who are older than 30
+✅ 4) Find employees from the IT department
+✅ 5) List employees with salary less than ₹50,000
+✅ 6) Show employees who are from Mumbai
+✅ 7) Show employees age between 25 and 35
+❌ 8) Show employees NOT from the Finance department
+✅ 9) Sort employees by salary (Low → High)
+✅ 10) Sort employees by age (High → Low)
