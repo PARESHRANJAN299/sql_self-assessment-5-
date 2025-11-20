@@ -1,0 +1,110 @@
+✅ DAY 3 — 50 SQL Questions (Only SELECT + WHERE + ORDER BY)
+SECTION 1 — SELECT (Basic column selection)
+
+Select all columns from the employees table.
+
+Select only name and age.
+
+Select id, name, and department.
+
+Select email and city.
+
+Select name and salary.
+
+Select all employees' ids.
+
+Select unique city values (just select city, no DISTINCT).
+
+Select name, age, city, salary.
+
+Select only department and salary.
+
+Select name as employee_name (use alias).
+
+SECTION 2 — WHERE (Filtering rows)
+
+Select employees older than 30.
+
+Select employees younger than 25.
+
+Select employees whose salary is greater than 50,000.
+
+Select employees whose salary is less than 30,000.
+
+Select employees from the city 'Delhi'.
+
+Select employees from the department 'IT'.
+
+Select employees whose age is equal to 40.
+
+Select employees whose id equals 5.
+
+Select employees whose city is 'Mumbai'.
+
+Select employees from any department except 'HR' (use !=).
+
+SECTION 3 — WHERE with multiple conditions (AND / OR)
+
+Select employees from 'IT' AND age > 30.
+
+Select employees from 'HR' AND salary > 60000.
+
+Select employees who live in 'Bangalore' OR 'Hyderabad'.
+
+Select employees with age > 30 OR salary > 50000.
+
+Select employees from 'Finance' AND city = 'Pune'.
+
+Select employees whose salary > 45000 AND age < 28.
+
+Select employees from 'Sales' OR salary < 30000.
+
+Select employees age = 25 OR age = 30.
+
+Select employees not from 'IT' AND salary > 40000.
+
+Select employees whose city = 'Delhi' OR department = 'IT'.
+
+SECTION 4 — ORDER BY (ASC/DESC sorting)
+
+Select all employees ordered by salary ASC.
+
+Select all employees ordered by salary DESC.
+
+Select name and salary ordered by name ASC.
+
+Select name and age ordered by age DESC.
+
+Select employees ordered by department ASC.
+
+Select employees ordered by age ASC then name ASC.
+
+Select employees ordered by city DESC.
+
+Select employees ordered by department ASC then salary DESC.
+
+Select employees ordered by id DESC.
+
+Select name, city, salary ordered by city ASC.
+
+SECTION 5 — WHERE + ORDER BY (Combined)
+
+Select employees from 'IT' ordered by salary DESC.
+
+Select employees whose salary > 50000 ordered by age ASC.
+
+Select employees older than 35 ordered by salary ASC.
+
+Select employees younger than 28 ordered by name ASC.
+
+Select employees from 'HR' ordered by id DESC.
+
+Select employees in 'Mumbai' ordered by salary DESC.
+
+Select employees with age >= 30 ordered by city ASC.
+
+Select employees with salary <= 40000 ordered by department ASC.
+
+Select employees not in 'Finance' ordered by salary ASC.
+
+Select employees from 'Sales' OR 'IT' ordered by age DESC.
